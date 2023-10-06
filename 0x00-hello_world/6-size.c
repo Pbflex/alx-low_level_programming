@@ -2,7 +2,7 @@
 
 /**
  * main - this is the main function is void
- * 
+ *
  * Return: always return 0
  */
 
