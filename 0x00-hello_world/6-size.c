@@ -2,7 +2,7 @@
 
 /**
  * main - this is the main function is void
- *
+ * Use sizeof function
  * Return: always return 0
  */
 
