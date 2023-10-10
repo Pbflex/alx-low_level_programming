@@ -8,18 +8,19 @@
 
 int main(void)
 {
-	int i, j;
+	int i;
+	int j;
 
 	for (i = 0; i <= 99; i++)
 	{
-		for (j = i; j <= 99; j++)
+		for (j = i + 1; j <= 99; j++)
 		{
 			putchar('0' + i / 10);
-			putchar('0' + j % 10);
+			putchar('0' + i % 10);
 			putchar(' ');
 
 			/*print the second two digits*/
-			putchar('0' + i / 10);
+			putchar('0' + j / 10);
 			putchar('0' + j % 10);
 
 		/* check if its not the last combination*/
