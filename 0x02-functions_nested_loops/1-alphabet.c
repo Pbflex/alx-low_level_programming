@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - main function
+ * print_alphabet - print alphabet function
  *
- * _putchar - writes values
+ * _putchar - putchar function used to write value
  * Return: always 0
  */
 
