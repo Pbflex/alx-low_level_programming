@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet - print alpphabet function
+ * print_alphabet_x10 - print multiple line of alphabet function
  *
  * _putchar - write the value of character
  * Return: always 0
