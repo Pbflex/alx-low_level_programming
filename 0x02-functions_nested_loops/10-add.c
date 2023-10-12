@@ -2,6 +2,8 @@
 /**
  * add - main function
  *
+ * @a: interger value
+ * @b: inter value
  * _putchar - to display character
  * Return: always 0
  */
