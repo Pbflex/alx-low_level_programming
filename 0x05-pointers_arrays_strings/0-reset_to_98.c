@@ -3,6 +3,7 @@
 /**
  * reset_to_98 - main function
  *
+ * @n: integer value
  * Return: always 0
  */
 
