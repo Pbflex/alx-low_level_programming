@@ -4,7 +4,6 @@
  * *_strcpy - main function
  *
  * @dest: value 1
- * @char: value 2
  * @src: value 3
  * Return: always 0
  */
