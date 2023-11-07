@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * Main - The main function
+ * main- The main function
  *
  * Return: always 0
  */
 
-int main (void)
+int main(void)
 {
 	printf("%s\n", __FILE__);
-	return(0);
+	return (0);
 }
