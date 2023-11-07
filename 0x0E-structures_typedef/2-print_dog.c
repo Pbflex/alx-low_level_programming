@@ -5,7 +5,6 @@
  * print_dog - main function
  *
  * @d: dog to print
- * @name: name of dog
  * Return: always 0
  */
 
